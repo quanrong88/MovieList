@@ -4,6 +4,6 @@ MovieList is the demo project using MVVM-C design pattern. Project has 3 modules
 
 Screenshot:
 
-![Empty screen](/Screenshoot/movieList1.png)
+![Empty screen](/Screenshot/movieList1.png)
 
-![Result screen](/Screenshoot/movieList2.png)
+![Result screen](/Screenshot/movieList2.png)
